@@ -72,6 +72,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-04-20T14:24:50.438334+00:00'
+datePublished: '2023-04-21T23:21:51.134745+00:00'
 description: 'These are all the accompanying data for the following publication:
 
   Sit, K.K., Goard, M.J. Coregistration of heading to visual cues in retrosplenial
@@ -86,6 +87,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000483/versions/draft/assets/
 name: Dataset for "Coregistration of heading to visual cues in retrosplenial cortex"
 protocol: []
+publishedBy:
+  endDate: '2023-04-21T23:21:51.134745+00:00'
+  id: urn:uuid:791ac8cd-dfa4-4bd7-9e95-48988add9c9f
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-04-21T23:21:51.134745+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:35134668-94f2-4a26-9766-a4503352a0e8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: Github Code
   name: Analysis Code
