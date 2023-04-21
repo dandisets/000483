@@ -43,8 +43,8 @@ assetsSummary:
   - ProcessingModule
   - TwoPhotonSeries
 citation: Sit, Kevin; Goard, Michael (2023) Dataset for "Coregistration of heading
-  to visual cues in retrosplenial cortex" (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000483/draft
+  to visual cues in retrosplenial cortex" (Version 0.230421.2321) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000483/0.230421.2321
 contributor:
 - affiliation: []
   email: sit@ucsb.edu
@@ -77,14 +77,15 @@ description: 'These are all the accompanying data for the following publication:
 
   Sit, K.K., Goard, M.J. Coregistration of heading to visual cues in retrosplenial
   cortex. Nat Commun 14, 1992 (2023). https://doi.org/10.1038/s41467-023-37704-5'
+doi: 10.48324/dandi.000483/0.230421.2321
 ethicsApproval: []
-id: DANDI:000483/draft
+id: DANDI:000483/0.230421.2321
 identifier: DANDI:000483
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000483/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000483/0.230421.2321/assets.yaml
 name: Dataset for "Coregistration of heading to visual cues in retrosplenial cortex"
 protocol: []
 publishedBy:
@@ -117,6 +118,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000483/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000483/0.230421.2321
+version: 0.230421.2321
 wasGeneratedBy: []
