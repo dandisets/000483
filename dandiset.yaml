@@ -93,6 +93,13 @@ relatedResource:
   repository: Neurotar-HD-Experiments
   schemaKey: Resource
   url: https://github.com/ucsb-goard-lab/Neurotar-HD-Experiments
+- identifier: DANDI
+  name: Processed objects
+  relation: dcite:IsSourceOf
+  repository: 'Processed data for: Co-registration of heading to visual cues in retrosplenial
+    cortex'
+  schemaKey: Resource
+  url: https://doi.org/10.25349/D91G8Q
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
