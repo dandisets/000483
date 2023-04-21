@@ -24,9 +24,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 102117975960
-  numberOfFiles: 22
-  numberOfSubjects: 5
+  numberOfBytes: 404486843272
+  numberOfFiles: 76
+  numberOfSubjects: 14
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -42,7 +42,7 @@ assetsSummary:
   - ProcessingModule
   - TwoPhotonSeries
 citation: Sit, Kevin (2023) Dataset for "Coregistration of heading to visual cues
-  in retrosplenial cortex" (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000483/draft
+  in retrosplenial cortex" (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   email: kevinkamansit@gmail.com
@@ -52,10 +52,12 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-04-20T14:24:50.438334+00:00'
+datePublished: '2023-04-21T15:43:30.059031+00:00'
 description: 'These are all the accompanying data for the following publication:
 
   Sit, K.K., Goard, M.J. Coregistration of heading to visual cues in retrosplenial
   cortex. Nat Commun 14, 1992 (2023). https://doi.org/10.1038/s41467-023-37704-5'
+doi: 10.80507/dandi.123456/0.123456.1234
 id: DANDI:000483/draft
 identifier: DANDI:000483
 license:
@@ -63,6 +65,18 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000483/versions/draft/assets/
 name: Dataset for "Coregistration of heading to visual cues in retrosplenial cortex"
+publishedBy:
+  endDate: '2023-04-21T15:43:30.059031+00:00'
+  id: urn:uuid:5d1d190f-f5d7-41d7-b2df-92ab30893260
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-04-21T15:43:30.059031+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:a2e0d6b9-10e0-4af7-b86f-ef2f4e401316
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
